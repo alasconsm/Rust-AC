@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Selector de Outfit</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>¡Bienvenido al Selector de Outfit en la Web!</h1>
+
+    <button id="seleccionar">Seleccionar Outfit</button>
+    <!-- Imágenes de outfit -->
+    <div id="imagenes">
+        <!-- Las imágenes seleccionadas se mostrarán aquí -->
+    </div>
+    <script>
+        // Manejar el evento de clic en el botón "Seleccionar Outfit"
+        $("#seleccionar").click(function() {
+            // Obtener las selecciones del usuario
+            var selecciones = {
+                evento: "Boda",
+                codigo_etiqueta: "BlackTie",
+                hora_evento: "Noche",
+                tipo_cuerpo: "RelojDeArena",
+                estacion_colorimetria: "Verano"
+            };
+            // Enviar las selecciones al servidor
+            $.post("/seleccion", JSON.stringify(selecciones), function(data) {
+                // Limpiar las imágenes anteriores
+                $("#imagenes").empty();
+                // Mostrar las imágenes de outfit
+                for (var i = 0; i < data.length; i++) {
+                    $("#imagenes").append(`<img src="${data[i]}" width="200" height="300">`);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

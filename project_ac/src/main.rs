@@ -1,10 +1,9 @@
-/*
-Interfaz para Seleccionar Vestimenta de acuerdo con un código de etiqueta
-by Alisson Constantine M.
-*/
+use actix_web::{web, App, HttpRequest, HttpResponse, HttpServer, Responder, Result};
+use std::fs;
+use std::str::FromStr;
 
 // Enumeración para elegir el tipo de evento
-#[derive(Debug, Clone, Copy)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
 enum Evento {
     Boda,
     Bautizo,
@@ -13,9 +12,8 @@ enum Evento {
 }
 
 // Enumeración para elegir el código de vestimenta
-#[derive(Debug, Clone, Copy)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
 enum CodigoEtiqueta {
-    WhiteTie,
     BlackTie,
     Coctel,
     Semiformal,
@@ -23,7 +21,7 @@ enum CodigoEtiqueta {
 }
 
 // Enumeración para la Hora del Evento
-#[derive(Debug, Clone, Copy)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
 enum HoraEvento {
     Manana,
     Tarde,
@@ -31,23 +29,83 @@ enum HoraEvento {
 }
 
 // Enumeración para definir el tipo de cuerpo
-#[derive(Debug, Clone, Copy)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
 enum TipoCuerpo {
     TrianguloInvertido,
     RelojDeArena,
     Pera,
     Rectangular,
-    Ovalo,
 }
-
-
 // Enumeración para la Estación y Colorimetría
-#[derive(Debug, Clone, Copy)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
 enum EstacionColorimetria {
-    Verano,
     Otono,
     Invierno,
-    Primavera,
+}
+impl FromStr for Evento {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s {
+            "Boda" => Ok(Evento::Boda),
+            "Bautizo" => Ok(Evento::Bautizo),
+            "Fiesta de la Empresa" => Ok(Evento::FiestaEmpresa),
+            "Reunión Familiar" => Ok(Evento::ReunionFamiliar),
+            _ => Err(()),
+        }
+    }
+}
+impl FromStr for CodigoEtiqueta {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s {
+            // "White Tie" => Ok(CodigoEtiqueta::WhiteTie),
+            "Black Tie" => Ok(CodigoEtiqueta::BlackTie),
+            "Coctel" => Ok(CodigoEtiqueta::Coctel),
+            "Semiformal" => Ok(CodigoEtiqueta::Semiformal),
+            "Casual" => Ok(CodigoEtiqueta::Casual),
+            _ => Err(()),
+        }
+    }
+}
+impl FromStr for HoraEvento {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s {
+            // "White Tie" => Ok(CodigoEtiqueta::WhiteTie),
+            "Manana" => Ok(HoraEvento::Manana),
+            "Tarde" => Ok(HoraEvento::Tarde),
+            "Noche" => Ok(HoraEvento::Noche),
+            _ => Err(()),
+        }
+    }
+}
+
+impl FromStr for TipoCuerpo {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s {
+            "Triangulo Invertido" => Ok(TipoCuerpo::TrianguloInvertido),
+            "Reloj de Arena" => Ok(TipoCuerpo::RelojDeArena),
+            "Pera" => Ok(TipoCuerpo::Pera),
+            "Rectangular" => Ok(TipoCuerpo::Rectangular),
+            _ => Err(()),
+        }
+    }
+}
+impl FromStr for EstacionColorimetria {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s {
+            "Otono" => Ok(EstacionColorimetria::Otono),
+            "Invierno" => Ok(EstacionColorimetria::Invierno),
+            _ => Err(()),
+        }
+    }
 }
 
 
@@ -61,8 +119,115 @@ struct Outfit {
     estacion_colorimetria: EstacionColorimetria,
 }
 
-fn main () {
-    let mut x = 10; //mut (mutable) para que se pueda moficiar luego // let forma de definir la funcion
-    println!("Hello, world!");
-    println!("x is {}", x);
+// Función para obtener la selección del usuario para una enumeración
+fn obtener_seleccion<T>(mensaje: &str, opciones: &[(&str, T)]) -> T
+where
+    T: std::str::FromStr + Clone, // Requerir que T implemente Clone
+    T::Err: std::fmt::Debug,
+{
+    loop {
+        println!("{}", mensaje);
+        for (i, (opcion, _)) in opciones.iter().enumerate() {
+            println!("{}: {}", i + 1, opcion);
+        }
+
+        let mut entrada = String::new();
+        std::io::stdin().read_line(&mut entrada).expect("Error al leer la entrada.");
+
+        // Convertir la entrada del usuario en un índice numérico
+        if let Ok(indice) = entrada.trim().parse::<usize>() {
+            if let Some((_, seleccion)) = opciones.get(indice - 1) {
+                return seleccion.clone();
+            }
+        }
+
+        println!("Selección inválida. Inténtalo nuevamente.");
+    }
+}
+
+// Función para obtener las selecciones del usuario para cada característica
+fn obtener_selecciones_del_usuario() -> Outfit {
+    // Obtener la selección del evento
+    let evento = obtener_seleccion(
+        "Selecciona el evento:",
+        &[
+            ("Boda", Evento::Boda),
+            ("Bautizo", Evento::Bautizo),
+            ("Fiesta de la Empresa", Evento::FiestaEmpresa),
+            ("Reunión Familiar", Evento::ReunionFamiliar),
+        ],
+    );
+
+    // Obtener la selección del Código de Etiqueta
+    let codigo_etiqueta = obtener_seleccion(
+        "Selecciona el Código de Etiqueta:",
+        &[
+            //("White Tie", CodigoEtiqueta::WhiteTie),
+            ("Black Tie", CodigoEtiqueta::BlackTie),
+            ("Coctel", CodigoEtiqueta::Coctel),
+            ("Semiformal", CodigoEtiqueta::Semiformal),
+            ("Casual", CodigoEtiqueta::Casual),
+        ],
+    );
+
+    // Obtener la selección de la Hora del Evento
+    let hora_evento = obtener_seleccion(
+        "Selecciona la Hora del Evento:",
+        &[
+            ("Mañana", HoraEvento::Manana),
+            ("Tarde", HoraEvento::Tarde),
+            ("Noche", HoraEvento::Noche),
+        ],
+    );
+
+    // Obtener la selección del Tipo de Cuerpo
+    let tipo_cuerpo = obtener_seleccion(
+        "Selecciona el Tipo de Cuerpo:",
+        &[
+            ("Triángulo Invertido", TipoCuerpo::TrianguloInvertido),
+            ("Reloj de Arena", TipoCuerpo::RelojDeArena),
+            ("Pera", TipoCuerpo::Pera),
+            ("Rectangular", TipoCuerpo::Rectangular),
+            //("Ovalo", TipoCuerpo::Ovalo),
+        ],
+    );
+
+    // Obtener la selección de la Estación y Colorimetría
+    let estacion_colorimetria = obtener_seleccion(
+        "Selecciona la Estación-Colorimetría:",
+        &[
+            //("Verano", EstacionColorimetria::Verano),
+            ("Otoño", EstacionColorimetria::Otono),
+            ("Invierno", EstacionColorimetria::Invierno),
+            //("Primavera", EstacionColorimetria::Primavera),
+        ],
+    );
+
+    // Devolver una instancia de la estructura Outfit con las selecciones del usuario
+    Outfit {
+        evento,
+        codigo_etiqueta,
+        hora_evento,
+        tipo_cuerpo,
+        estacion_colorimetria,
+    }
+}
+
+// Función para proporcionar una recomendación de outfit basada en las selecciones del usuario
+fn recomendar_outfit(outfit: &Outfit) {
+    println!("\n¡Recomendación de Outfit!\n");
+    println!("Evento: {:?}", outfit.evento);
+    println!("Código de Etiqueta: {:?}", outfit.codigo_etiqueta);
+    println!("Hora del Evento: {:?}", outfit.hora_evento);
+    println!("Tipo de Cuerpo: {:?}", outfit.tipo_cuerpo);
+    println!("Estación-Colorimetría: {:?}\n", outfit.estacion_colorimetria);
+    println!("¡Esperamos que disfrutes tu evento con el outfit seleccionado!");
+}
+
+fn main() {
+    println!("¡Bienvenido al Selector de Outfit!\n");
+    // Obtener las selecciones del usuario
+    let outfit_seleccionado = obtener_selecciones_del_usuario();
+    // Proporcionar una recomendación de outfit basada en las selecciones del usuario
+    recomendar_outfit(&outfit_seleccionado);
 }
