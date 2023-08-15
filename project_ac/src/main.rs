@@ -221,13 +221,77 @@ fn recomendar_outfit(outfit: &Outfit) {
     println!("Hora del Evento: {:?}", outfit.hora_evento);
     println!("Tipo de Cuerpo: {:?}", outfit.tipo_cuerpo);
     println!("Estación-Colorimetría: {:?}\n", outfit.estacion_colorimetria);
+
+    if outfit.evento == Evento::Boda
+        && outfit.codigo_etiqueta == CodigoEtiqueta::BlackTie
+        && outfit.hora_evento == HoraEvento::Tarde
+        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
+        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
+    {
+        println!("Tu Outfit ideal es: project_ac/static/outfits/1.jpg");
+    }
+
+    if outfit.evento == Evento::Boda
+        && outfit.codigo_etiqueta == CodigoEtiqueta::Coctel
+        && outfit.hora_evento == HoraEvento::Tarde
+        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
+        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
+    {
+        println!("Tu Outfit ideal es: project_ac/static/outfits/2.jpg");
+    }
+    if outfit.evento == Evento::Boda
+        && outfit.codigo_etiqueta == CodigoEtiqueta::Semiformal
+        && outfit.hora_evento == HoraEvento::Tarde
+        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
+        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
+    {
+        println!("Tu Outfit ideal es: project_ac/static/outfits/2.jpg");
+    }
+    if outfit.evento == Evento::Boda
+        && outfit.codigo_etiqueta == CodigoEtiqueta::Casual
+        && outfit.hora_evento == HoraEvento::Tarde
+        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
+        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
+    {
+        println!("Tu Outfit ideal es: project_ac/static/outfits/2.jpg");
+    }
+
     println!("¡Esperamos que disfrutes tu evento con el outfit seleccionado!");
+}
+
+fn cargar_imagenes(cantidad: usize) -> Vec<String> {
+    let carpeta = "project_ac/static/outfits";
+    let mut images = Vec::new();
+
+    for i in 1..=cantidad {
+        let ruta = format!("{}/{}.jpg", carpeta, i);
+        images.push(ruta);
+    }
+
+    images
 }
 
 fn main() {
     println!("¡Bienvenido al Selector de Outfit!\n");
-    // Obtener las selecciones del usuario
-    let outfit_seleccionado = obtener_selecciones_del_usuario();
-    // Proporcionar una recomendación de outfit basada en las selecciones del usuario
-    recomendar_outfit(&outfit_seleccionado);
+    let outfits = cargar_imagenes(29);
+
+    loop {
+        // Obtener las selecciones del usuario
+        let outfit_seleccionado = obtener_selecciones_del_usuario();
+
+        // Proporcionar una recomendación de outfit basada en las selecciones del usuario
+        recomendar_outfit(&outfit_seleccionado);
+
+        println!("Presiona 'Siguiente' para continuar o 'Salir' para salir.");
+        let mut entrada = String::new();
+        std::io::stdin().read_line(&mut entrada).expect("Error al leer la entrada.");
+
+        let entrada = entrada.trim().to_lowercase();
+        if entrada == "salir" {
+            break;
+        }
+    }
 }
+
+
+
