@@ -1,9 +1,13 @@
-use actix_web::{web, App, HttpRequest, HttpResponse, HttpServer, Responder, Result};
-use std::fs;
+//use std::fs;
+//use std::env;
 use std::str::FromStr;
+use serde::{Serialize, Deserialize};
+use std::fs::File;
+use std::io::Read;
+//use std::path::Path;
 
 // Enumeración para elegir el tipo de evento
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize )]
 enum Evento {
     Boda,
     Bautizo,
@@ -12,7 +16,7 @@ enum Evento {
 }
 
 // Enumeración para elegir el código de vestimenta
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 enum CodigoEtiqueta {
     BlackTie,
     Coctel,
@@ -21,7 +25,7 @@ enum CodigoEtiqueta {
 }
 
 // Enumeración para la Hora del Evento
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 enum HoraEvento {
     Manana,
     Tarde,
@@ -29,7 +33,7 @@ enum HoraEvento {
 }
 
 // Enumeración para definir el tipo de cuerpo
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 enum TipoCuerpo {
     TrianguloInvertido,
     RelojDeArena,
@@ -37,7 +41,7 @@ enum TipoCuerpo {
     Rectangular,
 }
 // Enumeración para la Estación y Colorimetría
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 enum EstacionColorimetria {
     Otono,
     Invierno,
@@ -213,7 +217,34 @@ fn obtener_selecciones_del_usuario() -> Outfit {
     }
 }
 
-// Función para proporcionar una recomendación de outfit basada en las selecciones del usuario
+// Definir la estructura para las condiciones de outfit en el archivo JSON
+#[derive(Debug, Serialize, Deserialize)]
+struct DecisionData {
+    conditions: Vec<DecisionCondition>,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct DecisionCondition {
+    evento: Evento,
+    codigo_etiqueta: CodigoEtiqueta,
+    hora_evento: HoraEvento,
+    tipo_cuerpo: TipoCuerpo,
+    estacion_colorimetria: EstacionColorimetria,
+    imagenes_outfit: ImagenesOutfit,
+}
+
+#[derive(Debug, Clone, Copy)]
+struct OutfitPair {
+    outfit_1: Outfit,
+    outfit_2: Outfit,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct ImagenesOutfit {
+    outfit_1: String,
+    outfit_2: String,
+}
+
 fn recomendar_outfit(outfit: &Outfit) {
     println!("\n¡Recomendación de Outfit!\n");
     println!("Evento: {:?}", outfit.evento);
@@ -222,45 +253,36 @@ fn recomendar_outfit(outfit: &Outfit) {
     println!("Tipo de Cuerpo: {:?}", outfit.tipo_cuerpo);
     println!("Estación-Colorimetría: {:?}\n", outfit.estacion_colorimetria);
 
-    if outfit.evento == Evento::Boda
-        && outfit.codigo_etiqueta == CodigoEtiqueta::BlackTie
-        && outfit.hora_evento == HoraEvento::Tarde
-        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
-        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
-    {
-        println!("Tu Outfit ideal es: project_ac/static/outfits/1.jpg");
+    // Cargar el contenido del archivo JSON
+    let mut file = File::open("src/decision.json").expect("Failed to open file");
+    let mut json_content = String::new();
+    file.read_to_string(&mut json_content).expect("Failed to read file");
+
+    // Parsear el contenido JSON a la estructura DecisionData
+    let decision_data: DecisionData = serde_json::from_str(&json_content).expect("Failed to parse JSON");
+
+    // Buscar las condiciones que cumplen con el outfit
+    let matched_conditions: Vec<&DecisionCondition> = decision_data.conditions.iter()
+        .filter(|condition| condition.evento == outfit.evento
+            && condition.codigo_etiqueta == outfit.codigo_etiqueta
+            && condition.hora_evento == outfit.hora_evento
+            && condition.tipo_cuerpo == outfit.tipo_cuerpo
+            && condition.estacion_colorimetria == outfit.estacion_colorimetria)
+        .collect();
+
+    if matched_conditions.is_empty() {
+        panic!("No se encontraron condiciones coincidentes para generar outfits recomendados.");
     }
 
-    if outfit.evento == Evento::Boda
-        && outfit.codigo_etiqueta == CodigoEtiqueta::Coctel
-        && outfit.hora_evento == HoraEvento::Tarde
-        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
-        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
-    {
-        println!("Tu Outfit ideal es: project_ac/static/outfits/2.jpg");
-    }
-    if outfit.evento == Evento::Boda
-        && outfit.codigo_etiqueta == CodigoEtiqueta::Semiformal
-        && outfit.hora_evento == HoraEvento::Tarde
-        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
-        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
-    {
-        println!("Tu Outfit ideal es: project_ac/static/outfits/2.jpg");
-    }
-    if outfit.evento == Evento::Boda
-        && outfit.codigo_etiqueta == CodigoEtiqueta::Casual
-        && outfit.hora_evento == HoraEvento::Tarde
-        && outfit.tipo_cuerpo == TipoCuerpo::TrianguloInvertido
-        && outfit.estacion_colorimetria == EstacionColorimetria::Invierno
-    {
-        println!("Tu Outfit ideal es: project_ac/static/outfits/2.jpg");
-    }
+    let imagenes_outfit = &matched_conditions[0].imagenes_outfit;
 
-    println!("¡Esperamos que disfrutes tu evento con el outfit seleccionado!");
+    println!("¡Recomendación de Outfit 1! Imagen: {}", imagenes_outfit.outfit_1);
+    println!("¡Recomendación de Outfit 2! Imagen: {}", imagenes_outfit.outfit_2);
 }
 
+
 fn cargar_imagenes(cantidad: usize) -> Vec<String> {
-    let carpeta = "project_ac/static/outfits";
+    let carpeta = "static/outfits";
     let mut images = Vec::new();
 
     for i in 1..=cantidad {
@@ -271,19 +293,26 @@ fn cargar_imagenes(cantidad: usize) -> Vec<String> {
     images
 }
 
+fn imprimir_outfit_images(imagenes_outfit: &ImagenesOutfit) {
+    println!("Outfit 1: {}", imagenes_outfit.outfit_1);
+    println!("Outfit 2: {}", imagenes_outfit.outfit_2);
+}
+
 fn main() {
     println!("¡Bienvenido al Selector de Outfit!\n");
     let outfits = cargar_imagenes(29);
 
-    loop {
-        // Obtener las selecciones del usuario
-        let outfit_seleccionado = obtener_selecciones_del_usuario();
+    loop{
+    // Obtener las selecciones del usuario
+    let outfit_seleccionado = obtener_selecciones_del_usuario();
 
-        // Proporcionar una recomendación de outfit basada en las selecciones del usuario
-        recomendar_outfit(&outfit_seleccionado);
+    recomendar_outfit(&outfit_seleccionado);
 
-        println!("Presiona 'Siguiente' para continuar o 'Salir' para salir.");
-        let mut entrada = String::new();
+    //println!("¡Recomendación de Outfit 1!");
+    //imprimir_outfit_images(&imagenes_outfit_recomendado);
+
+    println!("Escribe 'Siguiente' para continuar o 'Salir' para salir.");
+    let mut entrada = String::new();
         std::io::stdin().read_line(&mut entrada).expect("Error al leer la entrada.");
 
         let entrada = entrada.trim().to_lowercase();
@@ -292,6 +321,3 @@ fn main() {
         }
     }
 }
-
-
-

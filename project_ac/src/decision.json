@@ -1,0 +1,17 @@
+{
+    "conditions": [
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "static/outfits/3.jpg",
+          "outfit_2": "static/outfits/4.jpg"
+        }
+      }
+      
+    ]
+  }
+  
