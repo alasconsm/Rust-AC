@@ -7,8 +7,8 @@
         "tipo_cuerpo": "TrianguloInvertido",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "16",
+          "outfit_2": "7"
         }
       },
       {
@@ -18,8 +18,8 @@
         "tipo_cuerpo": "TrianguloInvertido",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "20",
+          "outfit_2": "19"
         }
       },
       {
@@ -29,8 +29,8 @@
         "tipo_cuerpo": "RelojDeArena",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "20",
+          "outfit_2": "19"
         }
       },
       {
@@ -40,8 +40,8 @@
         "tipo_cuerpo": "RelojDeArena",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "16",
+          "outfit_2": "7"
         }
       },
       {
@@ -51,8 +51,8 @@
         "tipo_cuerpo": "Pera",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "13",
+          "outfit_2": "14"
         }
       },
       {
@@ -62,8 +62,8 @@
         "tipo_cuerpo": "Pera",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "7",
+          "outfit_2": "11"
         }
       },
       {
@@ -73,8 +73,8 @@
         "tipo_cuerpo": "Rectangular",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "8",
+          "outfit_2": "11"
         }
       },
       {
@@ -84,8 +84,8 @@
         "tipo_cuerpo": "Rectangular",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "8",
+          "outfit_2": "11"
         }
       },
       {
@@ -95,8 +95,8 @@
         "tipo_cuerpo": "TrianguloInvertido",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "9",
+          "outfit_2": "7"
         }
       },
       {
@@ -106,8 +106,8 @@
         "tipo_cuerpo": "TrianguloInvertido",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "9",
+          "outfit_2": "7"
         }
       },
       {
@@ -117,8 +117,8 @@
         "tipo_cuerpo": "RelojDeArena",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "18",
+          "outfit_2": "22"
         }
       },
       {
@@ -128,8 +128,8 @@
         "tipo_cuerpo": "RelojDeArena",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "18",
+          "outfit_2": "22"
         }
       },
       {
@@ -139,8 +139,8 @@
         "tipo_cuerpo": "Pera",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "4",
+          "outfit_2": "1"
         }
       },
       {
@@ -150,7 +150,7 @@
         "tipo_cuerpo": "Pera",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "3",
+          "outfit_1": "24",
           "outfit_2": "4"
         }
       },
@@ -161,8 +161,8 @@
         "tipo_cuerpo": "Rectangular",
         "estacion_colorimetria": "Otono",
         "imagenes_outfit": {
-          "outfit_1": "3",
-          "outfit_2": "4"
+          "outfit_1": "15",
+          "outfit_2": "14"
         }
       },
       {
