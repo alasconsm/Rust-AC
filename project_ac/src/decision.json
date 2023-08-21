@@ -7,11 +7,3963 @@
         "tipo_cuerpo": "TrianguloInvertido",
         "estacion_colorimetria": "Invierno",
         "imagenes_outfit": {
-          "outfit_1": "static/outfits/3.jpg",
-          "outfit_2": "static/outfits/4.jpg"
+          "outfit_1": "3",
+          "outfit_2": "4"
         }
-      }
-      
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Boda",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "Bautizo",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "FiestaEmpresa",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "BlackTie",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Coctel",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Semiformal",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Tarde",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Manana",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "TrianguloInvertido",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "RelojDeArena",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Pera",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Otono",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      },
+      {
+        "evento": "ReunionFamiliar",
+        "codigo_etiqueta": "Casual",
+        "hora_evento": "Noche",
+        "tipo_cuerpo": "Rectangular",
+        "estacion_colorimetria": "Invierno",
+        "imagenes_outfit": {
+          "outfit_1": "3",
+          "outfit_2": "4"
+        }
+      }      
     ]
   }
   
